@@ -1,16 +1,8 @@
  [                                                                                    
     {                                                       
-      "Event": "change_price",
+      "Event": "change_deviceSecret",
       "Details": {
-        "barcodeId": "09999",
-        "price": 470
-      }
-    },
-    {
-      "Event": "change_price",
-      "Details": {
-        "barcodeId": "09889",
-        "price": 400
+        "deviceSecret": "6a8c4e8c79a53a9d36e1f1316914e96d4f2ba9e3b745670cf0047a8487636518"
       }
     }
-  ]
+]
