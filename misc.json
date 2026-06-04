@@ -3,14 +3,14 @@
       "Event": "change_price",
       "Details": {
         "barcodeId": "09999",
-        "price": 450
+        "price": 470
       }
     },
     {
       "Event": "change_price",
       "Details": {
         "barcodeId": "09889",
-        "price": 450
+        "price": 400
       }
     }
   ]
