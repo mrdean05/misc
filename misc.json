@@ -2,8 +2,8 @@
     {                                                       
       "Event": "add_product",
       "Details": {
-        "barcode": "09999",
-        "type": "Gel Polish Curing Lamp",
+        "barcodeId": "09999",
+        "name": "Gel Polish Curing Lamp",
         "brand": "",
         "weight": "",
         "price": 470
@@ -12,8 +12,8 @@
     {
       "Event": "add_product",
       "Details": {
-        "barcode": "09889",
-        "type": "Hand Pillow Nail Lamp",
+        "barcodeId": "09889",
+        "name": "Hand Pillow Nail Lamp",
         "brand": "Mate-60",
         "weight": "",
         "price": 400
