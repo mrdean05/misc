@@ -1,20 +1,22 @@
-{
-  "event": "software_update",
-  "update_id": "batch-unknown-20260602",
-  "details": [
-    {
-      "type": "muscle-master",
-      "version": "v0.0.0-dev-39cf240",
-      "url": "https://your-server/firmware/muscle-master-v0.0.0-dev-39cf240.bin",
-      "size": 1979696,
-      "sha256": "9ce04d3806db840918bb917a84a0f9393fd6829d582046ddba6bd442fee6ba39"
+  [                                                                                    
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcode": "09999",
+        "type": "Gel Polish Curing Lamp",
+        "brand": "",
+        "weight": "",
+        "price": 470
+      }
     },
     {
-      "type": "muscle-slave",
-      "version": "v0.1.1-dev-5188c3e",
-      "url": "https://your-server/firmware/muscle-slave-v0.1.1-dev-5188c3e.bin",
-      "size": 1166128,
-      "sha256": "313945b00d5683e10452532a2f0064c1293dd0a0cb2ef6d2630e3ae75d62174e"
+      "Event": "add_product",
+      "Details": {
+        "barcode": "09889",
+        "type": "Hand Pillow Nail Lamp",
+        "brand": "Mate-60",
+        "weight": "",
+        "price": 400
+      }
     }
   ]
-}
