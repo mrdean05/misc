@@ -2,91 +2,91 @@
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "877917000221",
-      "name": "Skin Perfector Lotion",
-      "brand": "Fair & White",
+      "barcodeId": "3337875784054",
+      "name": "Blemish Cleanser Gel",
+      "brand": "CeraVe",
+      "weight": "236ml",
+      "price": 100
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6925267305436",
+      "name": "Tumeric Oil",
+      "brand": "Veet Gold",
+      "weight": "1000 ml",
+      "price": 130
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "819265008801",
+      "name": "Brightening Cream",
+      "brand": "Advanced Clinicals",
+      "weight": "454g",
+      "price": 375
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "4897073186948",
+      "name": "Natural Balance Lotion",
+      "brand": "Natural Balance",
+      "weight": "500g",
+      "price": 140
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "9785202851322",
+      "name": "Face & Body Milk",
+      "brand": "Dr Lily",
       "weight": "500ml",
-      "price": 300
+      "price": 125
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "662476140064",
-      "name": "Half Cast Body Milk",
-      "brand": "European White",
-      "weight": "500ml",
-      "price": 120
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "60018915",
-      "name": "Vaseline Blue Seal",
-      "brand": "Vaseline",
-      "weight": "100ml",
-      "price": 25
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "098864005026",
-      "name": "Lemon Plus Mango",
-      "brand": "Cloud Nine",
-      "weight": "500ml",
-      "price": 255
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "4005900377005",
-      "name": "Men Black&White Roll On",
-      "brand": "Nivea",
-      "weight": "50ml",
-      "price": 25
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "4005900377043",
-      "name": "Dry Impact Roll On",
-      "brand": "Nivea Men",
-      "weight": "50ml",
-      "price": 25
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6932954257114",
-      "name": "Radiant Vitamin C",
-      "brand": "Body Butter",
+      "barcodeId": "9557887179400",
+      "name": "Shower Cream",
+      "brand": "Fruiser",
       "weight": "1000ml",
-      "price": 150
+      "price": 110
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6922300915362",
-      "name": "Omega Super Clear",
-      "brand": "OSC",
-      "weight": "500ml",
-      "price": 80
+      "barcodeId": "094683002550",
+      "name": "Lightening Oil",
+      "brand": "Skeenpoint",
+      "weight": "300ml",
+      "price": 95
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6971764157665",
-      "name": "Age Defying Toner",
-      "brand": "Estelin Skin Care",
-      "weight": "400ml",
+      "barcodeId": "6370420961002",
+      "name": "Tumeric Super Whitening",
+      "brand": "Veet Gold",
+      "weight": "200ml",
       "price": 60
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "811068019671",
+      "name": "Glow Radiance Body Wash",
+      "brand": "Dr Teal's",
+      "weight": "710ml",
+      "price": 110
     }
   }
 ]
