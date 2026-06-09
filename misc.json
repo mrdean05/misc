@@ -2,91 +2,91 @@
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "3337875784054",
-      "name": "Blemish Cleanser Gel",
-      "brand": "CeraVe",
-      "weight": "236ml",
+      "barcodeId": "302990241433",
+      "name": "Moisturizing Lotion",
+      "brand": "Cetaphil",
+      "weight": "591ml",
+      "price": 560
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6182000132807",
+      "name": "Shower Gel Exfoliating",
+      "brand": "Effimax",
+      "weight": "500ml",
+      "price": 35
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "811068019237",
+      "name": "Body Lotion",
+      "brand": "Dr Teals",
+      "weight": "532ml",
+      "price": 110
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "630902438061",
+      "name": "Body Oil",
+      "brand": "Zoda White",
+      "weight": "250ml",
+      "price": 120
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "4897120691036",
+      "name": "Baby Secret Oil Vit C",
+      "brand": "Baby Secret",
+      "weight": "440ml",
       "price": 100
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6925267305436",
-      "name": "Tumeric Oil",
-      "brand": "Veet Gold",
-      "weight": "1000 ml",
-      "price": 130
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "819265008801",
-      "name": "Brightening Cream",
-      "brand": "Advanced Clinicals",
-      "weight": "454g",
-      "price": 375
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "4897073186948",
-      "name": "Natural Balance Lotion",
-      "brand": "Natural Balance",
-      "weight": "500g",
-      "price": 140
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "9785202851322",
-      "name": "Face & Body Milk",
-      "brand": "Dr Lily",
+      "barcodeId": "4897073186542",
+      "name": "Hydrating Bright Lotion",
+      "brand": "Aqua Rich",
       "weight": "500ml",
-      "price": 125
+      "price": 160
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "9557887179400",
-      "name": "Shower Cream",
-      "brand": "Fruiser",
-      "weight": "1000ml",
-      "price": 110
+      "barcodeId": "010181041808",
+      "name": "Cocoa Butter Lotion",
+      "brand": "Palmer's",
+      "weight": "250ml",
+      "price": 160
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "094683002550",
-      "name": "Lightening Oil",
-      "brand": "Skeenpoint",
+      "barcodeId": "6908137011040",
+      "name": "Skin Brightening Toner",
+      "brand": "Zaron",
       "weight": "300ml",
-      "price": 95
+      "price": 240
     }
   },
   {
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6370420961002",
-      "name": "Tumeric Super Whitening",
-      "brand": "Veet Gold",
-      "weight": "200ml",
-      "price": 60
-    }
-  },
-  {
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "811068019671",
-      "name": "Glow Radiance Body Wash",
-      "brand": "Dr Teal's",
-      "weight": "710ml",
-      "price": 110
+      "barcodeId": "6971544132141",
+      "name": "Yalian",
+      "brand": "Yalian Beauty Care",
+      "weight": "5g",
+      "price": 10
     }
   }
 ]
