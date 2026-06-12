@@ -4,5 +4,25 @@
       "Details": {
         "deviceSecret": "85b0377eaf360605d4ac24b3e6978e96aa5e91ce1bce98f6e2621c43a9303a60"
       }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "70217",
+        "name": "With Additive Eye Irritant",
+        "brand": "",
+        "weight": "",
+        "price": 10
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "4901301363183",
+        "name": "Biore UV Watery Essence",
+        "brand": "",
+        "weight": "",
+        "price": 80
+      }
     }
 ]
