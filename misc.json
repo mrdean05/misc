@@ -1,0 +1,22 @@
+[                                                                                    
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6932005036897",
+      "name": "SD Low PH Amino Acid Cleanser",
+      "brand": "Smooth Diamond",
+      "weight": "300ml",
+      "price": 65
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "727785151481",
+      "name": "Sweet 16 Facial Cream",
+      "brand": "Sweet 15",
+      "weight": "30ml",
+      "price": 60
+    }
+  }
+]
