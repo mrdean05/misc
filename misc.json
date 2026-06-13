@@ -1,8 +1,430 @@
 [                                                                                    
-    {                                                       
-      "Event": "change_deviceSecret",
-      "Details": {
-        "deviceSecret": "c61a52ee87572103f25b04597c39dc9dbe5727a8b81fa81c9ed5ee932b52956b"
-      }
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "4005900925046",
+      "price": 80
     }
+  },
+  {
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "4005900593429",
+      "price": 75
+    }
+  },
+  {
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "4005808237470",
+      "price": 75
+    }
+  },
+  {
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "23434",
+      "price": 460
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "76237",
+      "name": "CeraVe Moisturizing Cream Pump",
+      "brand": "CeraVe",
+      "weight": "453g",
+      "price": 480
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "982447786757",
+      "name": "Diamond Glow Body Milk - P.E Magic",
+      "brand": "Diamond Glow",
+      "weight": "500ml",
+      "price": 130
+      }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "982447784326",
+      "name": "Diamond Glow Body Milk  - Ultra White",
+      "brand": "Diamond Glow",
+      "weight": "500ml",
+      "price": 130
+      }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "982447782858",
+      "name": "Diamond Glow Body Milk - E.Elegance",
+      "brand": "Diamond Glow",
+      "weight": "500ml",
+      "price": 130
+      }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "62793",
+      "name": "Neck Strips Glitter",
+      "brand": "",
+      "weight": "",
+      "price": 35
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "56210",
+      "name": "Buffering Cream",
+      "brand": "",
+      "weight": "",
+      "price": 35
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "36005",
+      "name": "Blue Soap",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "06572",
+      "name": "Micro Pigment Cosmetic Color",
+      "brand": "",
+      "weight": "",
+      "price": 65
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "52345",
+      "name": "Professional Needles",
+      "brand": "",
+      "weight": "",
+      "price": 6
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "82167",
+      "name": "Parmanet Makeup Booster Brow",
+      "brand": "",
+      "weight": "",
+      "price": 65
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "02570",
+      "name": "Eye Brow Mapping Ruler",
+      "brand": "",
+      "weight": "",
+      "price": 40
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "98089",
+      "name": "Lash Extension Eye Pads",
+      "brand": "",
+      "weight": "",
+      "price": 25
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "60492",
+      "name": "Lash Tape",
+      "brand": "",
+      "weight": "",
+      "price": 15
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "16749",
+      "name": "Lash Glue Nozzle Wipe Jar",
+      "brand": "",
+      "weight": "",
+      "price": 25
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "07588",
+      "name": "Lash Glue Holder",
+      "brand": "",
+      "weight": "",
+      "price": 25
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "10467",
+      "name": "Lash Glue Storage Container",
+      "brand": "",
+      "weight": "",
+      "price": 40
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "94899",
+      "name": "Lash Shampoo Brush",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "03219",
+      "name": "Dual-Ended Dotting Tool",
+      "brand": "",
+      "weight": "",
+      "price": 50
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "50215",
+      "name": "Professional Nail Tips",
+      "brand": "",
+      "weight": "",
+      "price": 40
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "88009",
+      "name": "Practice Nail Tips",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "94108",
+      "name": "Toe Nail Tips",
+      "brand": "",
+      "weight": "",
+      "price": 40
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "35904",
+      "name": "Clear Practice Tips",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "50145",
+      "name": "Nail Art Glitter",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "72005",
+      "name": "Stiletto Nail Tips",
+      "brand": "",
+      "weight": "",
+      "price": 20
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "11025",
+      "name": "Mixed Tips Organizer",
+      "brand": "",
+      "weight": "",
+      "price": 70
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "13002",
+      "name": "Soft Gel Tips",
+      "brand": "",
+      "weight": "",
+      "price": 45
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "71001",
+      "name": "3D Nail Charms",
+      "brand": "",
+      "weight": "",
+      "price": 15
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "20059",
+      "name": "3D Nail Charms",
+      "brand": "",
+      "weight": "",
+      "price": 12
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "22001",
+      "name": "Nail Rhinestone Kit",
+      "brand": "",
+      "weight": "",
+      "price": 25
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "41140",
+      "name": "6D Lashes",
+      "brand": "",
+      "weight": "",
+      "price": 50
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "09808",
+      "name": "Finger Sii Mays Lashes",
+      "brand": "Finger Sii",
+      "weight": "",
+      "price": 40
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "00109",
+      "name": "Xinger Sii Lashes",
+      "brand": "Xinger Sii",
+      "weight": "",
+      "price": 45
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "20001",
+      "name": "Xinger Sii Small Lashes",
+      "brand": "Xinger Sii",
+      "weight": "",
+      "price": 35
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "40209",
+      "name": "Xinger Sii Mays Long Lashes",
+      "brand": "Xinger Sii",
+      "weight": "",
+      "price": 48
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "13419",
+      "name": "30D Mix",
+      "brand": "",
+      "weight": "",
+      "price": 35
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "52529",
+      "name": "Visimru Lashes",
+      "brand": "",
+      "weight": "",
+      "price": 65
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "90091",
+      "name": "Professional Eyelashes Extension",
+      "brand": "",
+      "weight": "",
+      "price": 75
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "54904",
+      "name": "Cluster Lashes Kit",
+      "brand": "",
+      "weight": "",
+      "price": 90
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "24601",
+      "name": "DIY Lashes",
+      "brand": "",
+      "weight": "",
+      "price": 70
+    }
+  },
+  {
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "21123",
+      "name": "Advanced Lash Extension Fibers",
+      "brand": "",
+      "weight": "",
+      "price": 70
+    }
+  }
 ]
