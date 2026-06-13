@@ -1,9 +1,0 @@
-[                                                                                    
-  {                                                       
-    "Event": "change_price",
-    "Details": {
-      "barcodeId": "25025",
-      "price": 30
-    }
-  }
-]
