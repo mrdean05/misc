@@ -1,0 +1,16 @@
+[                                                                                    
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "25025",
+      "price": 30
+    }
+  },
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "25025",
+      "price": 30
+    }
+  }
+]
