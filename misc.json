@@ -1,22 +1,6 @@
-[                                                                                    
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "639469992719",
-      "name": "Alaska Salmon Fish Oil",
-      "brand": "Alaska",
-      "weight": "",
-      "price": 300
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6978147240006",
-      "name": "Collagen Cranberry",
-      "brand": "",
-      "weight": "",
-      "price": 300
-    }
+[
+  {
+    "Event": "change_salesUrl",
+    "Details": { "salesUrl": "https://webhook.site/07085bfc-0ca3-4a36-8ea7-32519b7c74a8" }
   }
 ]
