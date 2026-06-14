@@ -1,6 +1,36 @@
 [
-  {
-    "Event": "change_salesUrl",
-    "Details": { "salesUrl": "https://webhook.site/07085bfc-0ca3-4a36-8ea7-32519b7c74a8" }
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "85098",
+      "name": "SD Corrector Oil",
+      "brand": "Smooth Diamond",
+      "weight": "80ml",
+      "price": 89
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "75098",
+      "name": "SD Corrector Oil",
+      "brand": "Smooth Diamond",
+      "weight": "80ml",
+      "price": 89
+    }
+  },                                                                                       
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "109108502109",
+      "price": 90
+    }
+  },
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "109108501997",
+      "price": 80
+    }
   }
 ]
