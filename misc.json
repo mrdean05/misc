@@ -1,0 +1,82 @@
+[
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "8710447289327",
+      "name": "Dove Cream Bar - Pink",
+      "brand": "Dove",
+      "weight": "90g",
+      "price": 1500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "7501056371838",
+      "name": "Dove Cream Bar - C&Green Tea",
+      "brand": "Dove",
+      "weight": "360g",
+      "price": 5500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "7501056370947",
+      "name": "Dove Cream Bar - D. Moisture",
+      "brand": "Dove",
+      "weight": "360g",
+      "price": 5500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "10005",
+      "name": "Spooning",
+      "brand": "",
+      "weight": "",
+      "price": 2000
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "44899",
+      "name": "Extention Lash Brush",
+      "brand": "",
+      "weight": "",
+      "price": 2000
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "60492",
+      "name": "Lash Tape",
+      "brand": "",
+      "weight": "",
+      "price": 1500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "0108902292002323",
+      "name": "Epiderm Creme",
+      "brand": "Epiderm",
+      "weight": "",
+      "price": 1000
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6936829066542",
+      "name": "Hanna's Secret Play Sport",
+      "brand": "Hanna's Secret",
+      "weight": "100ml",
+      "price": 12500
+    }
+  }
+]
