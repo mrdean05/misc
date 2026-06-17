@@ -1,72 +1,38 @@
 [
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "5012251013369",
-      "name": "Beauty Formulas Vit. C Facial Scrub",
-      "brand": "Beauty Formulas",
-      "weight": "150ml",
-      "price": 6000
+  {
+    "Event": "change_salesUrl",
+    "Details": { 
+    "salesUrl":"https://webhook.site/07085bfc-0ca3-4a36-8ea7-32519b7c74a8"
     }
-  },
+  },  
   {                                                       
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6298957692537",
-      "name": "Aro-Fac Suger Pink Intense",
-      "brand": "Aro-Fac",
-      "weight": "100ml",
-      "price": 16000
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6998555478662",
-      "name": "Sokany Pro-Hair Straightener",
-      "brand": "Sokany",
+      "barcodeId": "9003146638824",
+      "name": "Beauty Nail Elements",
+      "brand": "",
       "weight": "",
-      "price": 15000 
+      "price": 4500
     }
   },
   {                                                       
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6795212214959",
-      "name": "Aura Factory Suger Pineapple",
-      "brand": "Aura Factory",
-      "weight": "50ml",
-      "price": 7500
+      "barcodeId": "748378001105",
+      "name": "Eco Style Styling Gel",
+      "brand": "Eco Style",
+      "weight": "",
+      "price": 3500
     }
   },
   {                                                       
     "Event": "add_product",
     "Details": {
-      "barcodeId": "6294761273467",
-      "name": "Aro Fac Suger Natural Spray",
-      "brand": "Aro Fac",
-      "weight": "100ml",
-      "price": 16000
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6294353307761",
-      "name": "Aro-Fac Suger Candy",
-      "brand": "Aro-Fac",
-      "weight": "100ml",
-      "price": 16000
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6972393151765",
-      "name": "Micolor Lip Gloss",
-      "brand": "Micolor",
-      "weight": "6.5g",
-      "price": 3000
+      "barcodeId": "6946051230833",
+      "name": "Best In Beauty Nail Gel Polish",
+      "brand": "Best In Beauty",
+      "weight": "25ml",
+      "price": 600
     }
   }
 ]
