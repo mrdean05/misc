@@ -2,37 +2,7 @@
   {
     "Event": "change_salesUrl",
     "Details": { 
-    "salesUrl":"https://webhook.site/07085bfc-0ca3-4a36-8ea7-32519b7c74a8"
-    }
-  },  
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "9003146638824",
-      "name": "Beauty Nail Elements",
-      "brand": "",
-      "weight": "",
-      "price": 4500
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "748378001105",
-      "name": "Eco Style Styling Gel",
-      "brand": "Eco Style",
-      "weight": "",
-      "price": 3500
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6946051230833",
-      "name": "Best In Beauty Nail Gel Polish",
-      "brand": "Best In Beauty",
-      "weight": "25ml",
-      "price": 600
+    "salesUrl":"https://smart-calculator-backend.onrender.com/transactions"
     }
   }
 ]
