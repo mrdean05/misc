@@ -34,5 +34,15 @@
       "weight": "25ml",
       "price": 600
     }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6975930050057",
+      "name": "N+ Curticle Oil",
+      "brand": "N+",
+      "weight": "",
+      "price": 3500
+    }
   }
 ]
