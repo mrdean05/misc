@@ -1,8 +1,22 @@
 [
-  {
-    "Event": "change_salesUrl",
-    "Details": { 
-    "salesUrl":"https://smart-calculator-backend.onrender.com/transactions"
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "8002410037449",
+      "name": "Chilly Antibatteric AntiOdor",
+      "brand": "Chilly",
+      "weight": "300ml",
+      "price": 8500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "8714100597347",
+      "name": "Vaseline Lip Therapy"
+      "brand": "Vaseline",
+      "weight": "20g",
+      "price": 3000
     }
   }
 ]
