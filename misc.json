@@ -13,7 +13,7 @@
     "Event": "add_product",
     "Details": {
       "barcodeId": "8714100597347",
-      "name": "Vaseline Lip Therapy  - Aloe"
+      "name": "Vaseline Lip Therapy  - Aloe",
       "brand": "Vaseline",
       "weight": "20g",
       "price": 3000
@@ -23,7 +23,7 @@
     "Event": "add_product",
     "Details": {
       "barcodeId": "98980",
-      "name": "Hand Mirror"
+      "name": "Hand Mirror",
       "brand": "",
       "weight": "",
       "price": 3500
