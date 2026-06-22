@@ -1,32 +1,7 @@
 [
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "8002410037449",
-      "name": "Chilly Antibatteric AntiOdor",
-      "brand": "Chilly",
-      "weight": "300ml",
-      "price": 8500
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "8714100597347",
-      "name": "Vaseline Lip Therapy  - Aloe",
-      "brand": "Vaseline",
-      "weight": "20g",
-      "price": 3000
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "98980",
-      "name": "Hand Mirror",
-      "brand": "",
-      "weight": "",
-      "price": 3500
-    }
+  {
+    "Event": "change_salesUrl",
+    "Details": { "salesUrl":
+"https://webhook.site/45b84eb7-45c9-4868-b3e0-07b1c25d47f5" }
   }
 ]
