@@ -12,8 +12,8 @@
   {                                                       
     "Event": "add_product",
     "Details": {
-      "barcodeId": "8714100597347 - Aloe",
-      "name": "Vaseline Lip Therapy"
+      "barcodeId": "8714100597347",
+      "name": "Vaseline Lip Therapy  - Aloe"
       "brand": "Vaseline",
       "weight": "20g",
       "price": 3000
