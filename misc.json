@@ -2,6 +2,56 @@
   {
     "Event": "change_salesUrl",
     "Details": { "salesUrl":
-"https://smart-calculator-backend.onrender.com/transactions" }
+  "https://smart-calculator-backend.onrender.com/transactions" }
+  },  
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "8002410037364",
+      "name": "Chilly Antibatteric AntiOdor",
+      "brand": "Chilly",
+      "weight": "300ml",
+      "price": 8500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6933535780472",
+      "name": "Cotton Pads",
+      "brand": "",
+      "weight": "",
+      "price": 2000
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "608887077568",
+      "name": "Glow Bliss Super Whitening Milk",
+      "brand": "Glow Bliss",
+      "weight": "",
+      "price": 12500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6976982880036",
+      "name": "Cotton Pads - 80pcs",
+      "brand": "",
+      "weight": "",
+      "price": 1800
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "6938547757061",
+      "name": "Yoko Cotton Pads - 150 pcs",
+      "brand": "",
+      "weight": "",
+      "price": 3000
+    }
   }
 ]
