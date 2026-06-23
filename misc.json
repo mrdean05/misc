@@ -33,25 +33,5 @@
       "weight": "",
       "price": 12500
     }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6976982880036",
-      "name": "Cotton Pads - 80pcs",
-      "brand": "",
-      "weight": "",
-      "price": 1800
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6938547757061",
-      "name": "Yoko Cotton Pads - 150 pcs",
-      "brand": "",
-      "weight": "",
-      "price": 3000
-    }
   }
 ]
