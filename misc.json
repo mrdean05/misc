@@ -1,29 +1,4 @@
-[
-  {
-    "Event": "change_salesUrl",
-    "Details": { "salesUrl":
-  "https://smart-calculator-backend.onrender.com/transactions" }
-  },  
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "8002410037364",
-      "name": "Chilly Antibatteric AntiOdor",
-      "brand": "Chilly",
-      "weight": "300ml",
-      "price": 8500
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "6933535780472",
-      "name": "Cotton Pads",
-      "brand": "",
-      "weight": "",
-      "price": 2000
-    }
-  },
+[  
   {                                                       
     "Event": "add_product",
     "Details": {
@@ -32,6 +7,16 @@
       "brand": "Glow Bliss",
       "weight": "",
       "price": 12500
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "4015110005964",
+      "name": "Professional Super Taper",
+      "brand": "",
+      "weight": "",
+      "price": 69000
     }
   }
 ]
