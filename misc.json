@@ -1,22 +1,49 @@
 [  
   {                                                       
-    "Event": "add_product",
+    "Event": "change_price",
     "Details": {
-      "barcodeId": "608887077568",
-      "name": "Glow Bliss Super Whitening Milk",
-      "brand": "Glow Bliss",
-      "weight": "",
-      "price": 12500
+      "barcodeId": "8965423874565",
+      "price": 20000
+    }
+  },
+  {                                                       
+    "Event": "change_price",
+    "Details": {
+      "barcodeId": "4015110005964",
+      "price": 20000
     }
   },
   {                                                       
     "Event": "add_product",
     "Details": {
-      "barcodeId": "4015110005964",
-      "name": "Professional Super Taper",
-      "brand": "",
-      "weight": "",
-      "price": 69000
+      "barcodeId": "8965423874237",
+      "name": "Zarwa Hand & Body Lotion",
+      "brand": "Zarwa",
+      "weight": "400ml",
+      "quantity": 50,
+    "price": 20000
     }
-  }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "7803090200298",
+      "name": "S.D Half Cast Face & Body Lotion",
+      "brand": "Smooth Diamond",
+      "weight": "500ml",
+      "quantity": 50,
+      "price": 13000
+    }
+  },
+  {                                                       
+    "Event": "add_product",
+    "Details": {
+      "barcodeId": "13033",
+      "name": "Glow Bliss Strong Whitening Milk",
+      "brand": "Glow Bliss",
+      "weight": "500ml",
+      "quantity": 3,
+      "price": 12500
+    }
+  }, 
 ]
