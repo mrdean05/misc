@@ -2,6 +2,6 @@
   {
     "Event": "change_salesUrl",
     "Details": { "salesUrl":
-"https://webhook.site/ed2b9f88-afcd-4892-9400-b42a0636d253" }
+"https://smart-calculator-backend.onrender.com/transactions" }
   }
 ]
