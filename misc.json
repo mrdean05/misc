@@ -1,8 +1,8 @@
 [                                                                                    
     {                                                       
-      "Event": "change_deviceSecret",
-      "Details": {
+        "Event": "change_deviceSecret",
+        "Details": {
         "deviceSecret": "5cf5fe48c2553691d3022689b7fb3144566423818564a80f5460f7cbcef4f5e2"
-      }
+        }
     }
 ]
