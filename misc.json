@@ -2,26 +2,6 @@
   {
     "Event": "change_salesUrl",
     "Details": { "salesUrl":
-"https://webhook.site/ed2b9f88-afcd-4892-9400-b42a0636d253" }
-  },    
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "009773482198",
-      "name": "Infinty Glow Whitening Body Lotion",
-      "brand": "Infinity Glow",
-      "weight": "500ml",
-      "price": 11000
-    }
-  },
-  {                                                       
-    "Event": "add_product",
-    "Details": {
-      "barcodeId": "5031413940589",
-      "name": "Facefacts Collagen Serum",
-      "brand": "Facefacts",
-      "weight": "30ml",
-      "price": 6000
-    }
-  }  
+"https://smart-calculator-backend.onrender.com/transactions" }
+  }
 ]
