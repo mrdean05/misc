@@ -1,0 +1,22 @@
+  [                                                                                    
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "071249036853",
+        "name": "L’Oreal Paris True Makeup Foundation",
+        "brand": "L’Oreal Paris",
+        "weight": "30ml",
+        "price": 5000
+      }
+    },
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "041554466522",
+        "name": "Maybelline Fit Me Foundation Makeup",
+        "brand": "Maybelline Fit Me",
+        "weight": "30ml",
+        "price": 5000
+      }
+    }
+  ]
