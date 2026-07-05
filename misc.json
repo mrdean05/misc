@@ -1,8 +1,0 @@
-  [                                                                                    
-    {
-        "Event": "change_printerMac", 
-        "Details": {
-            "printerMac": "01:55:87:20:FE:E9"
-            }
-        }
-  ]
