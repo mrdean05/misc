@@ -1,0 +1,32 @@
+ [                                                                                    
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "6291768214554",
+        "name": "Smart Collection Natural Spray",
+        "brand": "Smart Collection",
+        "weight": "30ml",
+        "price": 3500
+      }
+    },
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "6297000699059",
+        "name": "Smart Collection Women Natural Spray",
+        "brand": "Smart Collection",
+        "weight": "30ml",
+        "price": 3500
+      }
+    },
+    {                                                       
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "5060120163424",
+        "name": "Tea Tree Foaming Face Wash",
+        "brand": "Tea Tree",
+        "weight": "200ml",
+        "price": 3000
+      }
+    }
+  ]
