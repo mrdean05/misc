@@ -1,32 +1,82 @@
- [                                                                                    
+  [                                                                                    
     {                                                       
       "Event": "add_product",
       "Details": {
-        "barcodeId": "6291768214554",
-        "name": "Smart Collection Natural Spray",
-        "brand": "Smart Collection",
-        "weight": "30ml",
-        "price": 3500
+        "barcodeId": "07596",
+        "name": "5D Nail Sticker",
+        "brand": "",
+        "weight": "",
+        "price": 1200
       }
     },
-    {                                                       
+    {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "6297000699059",
-        "name": "Smart Collection Women Natural Spray",
-        "brand": "Smart Collection",
-        "weight": "30ml",
-        "price": 3500
+        "barcodeId": "05478",
+        "name": "Mosr Nail Art",
+        "brand": "Mosr",
+        "weight": "",
+        "price": 1200
       }
     },
-    {                                                       
+    {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "5060120163424",
-        "name": "Tea Tree Foaming Face Wash",
-        "brand": "Tea Tree",
-        "weight": "200ml",
-        "price": 3000
+        "barcodeId": "05933",
+        "name": "Nail sticker",
+        "brand": "",
+        "weight": "",
+        "price": 2000
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "07128",
+        "name": "DIY Eyelash",
+        "brand": "",
+        "weight": "",
+        "price": 8000
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "02576",
+        "name": "Nail Tip",
+        "brand": "",
+        "weight": "",
+        "price": 2500
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "05904",
+        "name": "Nail Tip",
+        "brand": "",
+        "weight": "",
+        "price": 2000
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "05325",
+        "name": "Normal Nail Tips",
+        "brand": "",
+        "weight": "",
+        "price": 6500
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "05980",
+        "name": "Clear Nail Tips",
+        "brand": "",
+        "weight": "",
+        "price": 3500
       }
     }
   ]
