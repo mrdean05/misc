@@ -2,80 +2,120 @@
     {                                                       
       "Event": "add_product",
       "Details": {
-        "barcodeId": "07596",
-        "name": "5D Nail Sticker",
-        "brand": "",
+        "barcodeId": "6972589860013",
+        "name": "Absolute Lip Gloss",
+        "brand": "Absolute",
         "weight": "",
-        "price": 1200
+        "price": 600
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "05478",
-        "name": "Mosr Nail Art",
-        "brand": "Mosr",
-        "weight": "",
-        "price": 1200
+        "barcodeId": "6943322100079",
+        "name": "Kaqier Hair Structure",
+        "brand": "Kaqier",
+        "weight": "300ml",
+        "price": 4000
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "05933",
-        "name": "Nail sticker",
-        "brand": "",
-        "weight": "",
-        "price": 2000
+        "barcodeId": "721802500825",
+        "name": "Hauuauan Silky Miracle Worker",
+        "brand": "Hauuauan",
+        "weight": "474 ml",
+        "price": 4600
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "07128",
-        "name": "DIY Eyelash",
-        "brand": "",
-        "weight": "",
-        "price": 8000
+        "barcodeId": "034218541856",
+        "name": "Originals Hair DeepConditioner",
+        "brand": "Originals",
+        "weight": "423 ml",
+        "price": 4000
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "02576",
-        "name": "Nail Tip",
-        "brand": "",
+        "barcodeId": "6956088511010",
+        "name": "Tresemne Volume-Body Conditioner",
+        "brand": "Tresemne",
         "weight": "",
-        "price": 2500
+        "price": 4500
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "05904",
-        "name": "Nail Tip",
-        "brand": "",
-        "weight": "",
-        "price": 2000
+        "barcodeId": "6956088510266",
+        "name": "Tresemne Moisture Rich Shampoo",
+        "brand": "Tresemne",
+        "weight": "828ml",
+        "price": 4000
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "05325",
-        "name": "Normal Nail Tips",
-        "brand": "",
-        "weight": "",
-        "price": 6500
+        "barcodeId": "077331316636",
+        "name": "Shino-n Jam Edge Magic",
+        "brand": "Shino-n Jam",
+        "weight": "113.5g",
+        "price": 3000
       }
     },
     {
       "Event": "add_product",
       "Details": {
-        "barcodeId": "05980",
-        "name": "Clear Nail Tips",
-        "brand": "",
+        "barcodeId": "077331310733",
+        "name": "Shino-n Jam Conditioning Gel",
+        "brand": "Shino-n Jam",
+        "weight": "113.5g",
+        "price": 3000
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "077331310740",
+        "name": "Shino-n Jam Conditioning Gel",
+        "brand": "Shino-n Jam",
+        "weight": "113.5g",
+        "price": 3500
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "6978313591437",
+        "name": "Luodais Hair Fragance Oil",
+        "brand": "Luodais",
         "weight": "",
+        "price": 2200
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "6973665232960",
+        "name": "Foisten Heat Protector Spray",
+        "brand": "Foisten Professional",
+        "weight": "150ml",
+        "price": 3500
+      }
+    },
+    {
+      "Event": "add_product",
+      "Details": {
+        "barcodeId": "35351",
+        "name": "Kaqier Hair Structure",
+        "brand": "Kaqier",
+        "weight": "280ml",
         "price": 3500
       }
     }
