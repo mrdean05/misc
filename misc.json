@@ -68,11 +68,5 @@
         "weight": "500ml",
         "price": 8000
       }
-    },
-    {
-      "Event": "change_catalogVersion",
-      "Details": {
-         "catalogVersion": "880"
-      }
     }
   ]
