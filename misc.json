@@ -1,0 +1,8 @@
+  [                                                                                    
+    {
+        "Event": "change_printerMac", 
+        "Details": {
+            "printerMac": "66:22:A1:D0:57:5B"
+            }
+        }
+  ]
