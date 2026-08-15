@@ -1,8 +1,14 @@
-[                                                                                    
+[                                       
   {
-      "Event": "change_printerMac", 
-      "Details": {
-          "printerMac": "86:67:7A:71:F9:1A"
-          }
-      }
+    "Event": "change_shopName",                                                                                                
+    "Details": {
+      "shopName": "MUSCLE"                                                                                                    
+    }                                                                                                                        
+  },
+  {
+    "Event": "change_shopLocation",
+    "Details": {
+      "shopLocation": "Secko, Sekondi"
+    }
+  }
 ]
