@@ -1,0 +1,14 @@
+[                                       
+  {
+    "Event": "change_shopName",                                                                                                
+    "Details": {
+      "shopName": "Cindy Bless"                                                                                                    
+    }                                                                                                                        
+  },
+  {
+    "Event": "change_shopLocation",
+    "Details": {
+      "shopLocation": "Ahanta Rd,Tdi"
+    }
+  }
+]
