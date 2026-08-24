@@ -1,0 +1,20 @@
+[                                       
+  {
+    "Event": "change_shopName",                                                                                                
+    "Details": {
+      "shopName": "BIGGIE ENTERPRISE"                                                                                                    
+    }                                                                                                                        
+  },
+  {
+    "Event": "change_shopLocation",
+    "Details": {
+      "shopLocation": "Zenith Bank, Tadi"
+    }
+  },
+{    "Event": "change_printerMac", 
+      "Details": {
+          "printerMac": "86:67:7A:91:FC:E4"
+          }
+      }
+
+]
