@@ -1,8 +1,7 @@
-[                                       
-{    "Event": "change_printerMac", 
-      "Details": {
-          "shopName": "Nakus Wellness and Nutrition Center"
-          }
-      }
-
+[
+  {
+    "Event": "change_salesUrl",
+    "Details": { "salesUrl":
+"https://webhook.site/85412b36-6057-4535-9a06-83c8e37d559d" }
+  }
 ]
