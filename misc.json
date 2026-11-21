@@ -1,8 +1,20 @@
-[
-  {
-    "Event": "change_salesUrl",
-    "Details": { "salesUrl":
-"https://smart-calculator-backend.onrender.com/transactions" }
-  }
-]
-
+  [                                                                                                              
+    {             
+      "Event": "change_printerMac",
+      "Details": {
+        "printerMac": "86:67:7A:AD:B4:E6"
+      }
+    },
+    {
+      "Event": "change_shopName",
+      "Details": {
+        "shopName": "Muscle"
+      }
+    },
+    {
+      "Event": "change_shopLocation",
+      "Details": {
+        "shopLocation": "Sekondi"
+      }
+    }
+  ]
